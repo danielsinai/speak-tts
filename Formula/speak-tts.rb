@@ -4,7 +4,7 @@ class SpeakTts < Formula
   desc "Voice cloning CLI for Mac using F5-TTS"
   homepage "https://github.com/danielsinai/homebrew-speak-tts"
   url "https://github.com/danielsinai/homebrew-speak-tts/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_AFTER_CREATING_RELEASE"
+  sha256 "a9fcaa20f0d0ed976ff104b2ba259e278d61227112985a043fd475551141acf9"
   license "MIT"
 
   depends_on "python@3.12"
